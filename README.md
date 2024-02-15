@@ -27,5 +27,8 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 ![Waveform](https://github.com/angelinaharris24/ece281-ice3/assets/156052376/cabd97e6-4816-4b5c-b997-c104a5ac51dc)
 
+
+DEMO VIDEO LINK: https://youtube.com/shorts/xDj9s7ErVlk?feature=share 
+
 ## Documentation
 C3C Alex Sick and C3C John Costello helped me see how to set various files as "top" so that the proper test bench will execute when appropriate. C3C Alex Sick also used the graphic on the ICE 3 instructions page to explain which signals I should declare in my test bench file.
