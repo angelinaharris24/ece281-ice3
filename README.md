@@ -24,3 +24,8 @@ Then it **elaborates** the *any* entity with the name `*_tb`.
 Finally, the workflow **runs** the simulation. If successful then it will quietly exit with a `0` code.
 If any of the `assert` statements fail **with** `severity failure` then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
+
+![Waveform](https://github.com/angelinaharris24/ece281-ice3/assets/156052376/cabd97e6-4816-4b5c-b997-c104a5ac51dc)
+
+## Documentation
+C3C Alex Sick and C3C John Costello helped me see how to set various files as "top" so that the proper test bench will execute when appropriate. C3C Alex Sick also used the graphic on the ICE 3 instructions page to explain which signals I should declare in my test bench file.
