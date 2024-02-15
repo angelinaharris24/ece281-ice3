@@ -11,7 +11,7 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : halfAdder_tb.vhd
---| AUTHOR(S)     : Capt Warner
+--| AUTHOR(S)     : Capt Warner, C3C Angel Harris
 --| CREATED       : 01/17/2017
 --| DESCRIPTION   : This file implements a half adder test bench.
 --|
